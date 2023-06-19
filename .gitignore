@@ -1,0 +1,15 @@
+﻿.vs
+./**/obj
+AuctionSniper/AuctionSniper.Application/obj
+AuctionSniper/AuctionSniper.Domain/obj
+AuctionSniper/AuctionSniper.Infrastructure.Persistence/obj
+AuctionSniper/AuctionSniper.Infrastructure.Shared/obj
+AuctionSniper/AuctionSniper.WebApi/obj
+AuctionSniper.FunctionalTests/obj
+AuctionSniper.IntegrationTests/bin
+AuctionSniper.IntegrationTests/obj
+AuctionSniper.UI/bin
+AuctionSniper.UI/obj
+AuctionSniper.UnitTests/obj
+AuctionSniper/AuctionSniper.UI/bin
+AuctionSniper/AuctionSniper.UI/obj
