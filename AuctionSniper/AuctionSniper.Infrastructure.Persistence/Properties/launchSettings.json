@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "AuctionSniper.Infrastructure.Persistence": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:55705;http://localhost:55708"
+    }
+  }
+}
